@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/backwardButton.png</file>
+        <file>images/fowardButton.png</file>
+        <file>images/openButton.png</file>
+        <file>images/pauseButton.png</file>
+        <file>images/playButton.png</file>
+    </qresource>
+</RCC>
